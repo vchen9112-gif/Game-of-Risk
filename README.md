@@ -25,14 +25,6 @@ Players aim to get a hand value as close to 21 as possible while facing random c
    - Tie if scores are equal.  
 7. Each round lasts one game, but you can **play indefinitely** until you choose to exit.
 
-### How to Run
-1. Ensure **Python 3** is installed.  
-2. Open **Visual Studio Code** (or any Python IDE).  
-3. Create a `.py` file and paste the code.  
-4. Run the program:  
-```bash
-cyberjack_roulette .py
-
 ## 🧩 What I Learned
 1. Implemented blackjack-inspired gameplay in Python
 2. Integrated cybersecurity concepts into interactive events
@@ -44,6 +36,16 @@ cyberjack_roulette .py
 2.Replay Feature: Allow players to continue playing without restarting the program, improving user experience.
 3.GUI Interface (Optional): Create a graphical interface for a more interactive experience.
 4.Expanded Cybersecurity Events: Add more types of challenges or scenarios to enhance the educational component.
+
+### How to Run
+1. Ensure **Python 3** is installed.  
+2. Open **Visual Studio Code** (or any Python IDE).  
+3. Create a `.py` file and paste the code.  
+4. Run the program:  
+```bash
+cyberjack_roulette .py
+
+
 
 
 
