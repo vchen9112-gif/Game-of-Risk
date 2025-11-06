@@ -31,4 +31,23 @@ Players aim to get a hand value as close to 21 as possible while facing random c
 3. Create a `.py` file and paste the code.  
 4. Run the program:  
 ```bash
-python filename.py
+cyberjack_roulette .py
+
+## 🧩 What I Learned
+1. Implemented blackjack-inspired gameplay in Python
+2. Integrated cybersecurity concepts into interactive events
+3.Developed clean, functional, single-file Python code
+4.Learned how to structure game logic and handle random events in Python
+
+##🔮 Future Improvements
+1.Dynamic Questions: Shuffle questions and answer choices to make gameplay more unpredictable and engaging.
+2.Replay Feature: Allow players to continue playing without restarting the program, improving user experience.
+3.GUI Interface (Optional): Create a graphical interface for a more interactive experience.
+4.Expanded Cybersecurity Events: Add more types of challenges or scenarios to enhance the educational component.
+
+
+
+
+
+
+
